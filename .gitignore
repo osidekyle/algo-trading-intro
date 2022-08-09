@@ -1,2 +1,4 @@
 api_secrets.py
 sp_500_stocks.csv
+.idea
+__pychache__
